@@ -1,8 +1,9 @@
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello from La'Damian! This is my first Git commit.\n";
+    cout << "Hello from La'Damian! This is my first Git commit.\n";
+    cout << "Git makes collaboration easy!" << endl;
 }
 
